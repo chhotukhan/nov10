@@ -6,7 +6,7 @@ jobs:
   myjob1:
     runs-on: ubuntu-latest
     steps:
-      - name:
+      - name: mystep1
           run: |
             whoami
             pwd
